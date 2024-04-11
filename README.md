@@ -1,2 +1,2 @@
 # Arduino
-Just soe basic Arduino code for home projects
+Just some basic Arduino code for home projects
